@@ -1,0 +1,48 @@
+@import url(null.css);
+h3 {
+    color:lightseagreen;
+}
+.text {
+    color: darkblue;
+}
+
+div .part-one{
+color: blueviolet;
+}
+div .part-two{
+    color: chocolate;
+}
+.gardener{
+    color: olivedrab;
+}
+
+.puzzle.gardener{
+    color: crimson;
+}
+.apples .block{
+color: darkgreen;
+}
+.plum, .grape{
+    color: indigo;
+}
+.pear {
+    color: chartreuse;
+}
+.watermelon {
+    color: forestgreen;
+}
+.watermelon .red, .strawberry, .tomato {
+ color: red;
+} 
+.watermelon .yellow{
+    color: yellow;
+}
+.orange, .apricot{
+    color: orangered;
+}
+.banana, .pineapple{
+    color: yellow;
+}
+.cherry{
+    color: maroon;
+}
